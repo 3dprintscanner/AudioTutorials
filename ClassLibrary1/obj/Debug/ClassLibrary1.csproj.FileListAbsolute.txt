@@ -1,0 +1,7 @@
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\ClassLibrary1\bin\Debug\NAudio.dll
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\ClassLibrary1\bin\Debug\NAudio.xml
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,12 @@
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WaveFormPlotter\bin\Debug\WaveFormPlotter.exe.config
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WaveFormPlotter\bin\Debug\WaveFormPlotter.exe
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WaveFormPlotter\bin\Debug\WaveFormPlotter.pdb
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WaveFormPlotter\bin\Debug\NAudio.dll
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WaveFormPlotter\bin\Debug\NAudio.pdb
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WaveFormPlotter\bin\Debug\NAudio.xml
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WaveFormPlotter\obj\Debug\WaveFormPlotter.csprojResolveAssemblyReference.cache
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WaveFormPlotter\obj\Debug\WaveFormPlotter.Form1.resources
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WaveFormPlotter\obj\Debug\WaveFormPlotter.Properties.Resources.resources
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WaveFormPlotter\obj\Debug\WaveFormPlotter.csproj.GenerateResource.Cache
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WaveFormPlotter\obj\Debug\WaveFormPlotter.exe
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WaveFormPlotter\obj\Debug\WaveFormPlotter.pdb

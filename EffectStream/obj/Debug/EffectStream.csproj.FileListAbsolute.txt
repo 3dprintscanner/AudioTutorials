@@ -1,0 +1,15 @@
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\bin\Debug\EffectStream.exe.config
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\obj\Debug\EffectStream.csprojResolveAssemblyReference.cache
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\obj\Debug\MainWindow.baml
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\obj\Debug\MainWindow.g.cs
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\obj\Debug\App.g.cs
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\obj\Debug\EffectStream_MarkupCompile.cache
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\obj\Debug\EffectStream.g.resources
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\obj\Debug\EffectStream.Properties.Resources.resources
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\obj\Debug\EffectStream.csproj.GenerateResource.Cache
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\bin\Debug\EffectStream.exe
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\bin\Debug\EffectStream.pdb
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\bin\Debug\NAudio.dll
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\bin\Debug\NAudio.xml
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\obj\Debug\EffectStream.exe
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\EffectStream\obj\Debug\EffectStream.pdb

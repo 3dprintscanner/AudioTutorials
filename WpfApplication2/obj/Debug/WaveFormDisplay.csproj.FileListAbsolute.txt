@@ -1,0 +1,3 @@
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.pdb

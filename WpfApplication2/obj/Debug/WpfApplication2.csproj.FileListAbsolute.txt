@@ -1,0 +1,15 @@
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\bin\Debug\NAudio.dll
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\bin\Debug\NAudio.xml
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\obj\Debug\WaveForm.baml
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\obj\Debug\WaveForm.g.cs
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\anthony\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.pdb

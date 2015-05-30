@@ -1,0 +1,9 @@
+﻿<Window x:Class="EffectStream.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="135" Width="364">
+    <Grid Margin="0,0,205,206">
+        <Button Content="Button" HorizontalAlignment="Left" Height="41" Margin="14,29,-184,-70" VerticalAlignment="Top" Width="321" Click="Button_Click"/>
+
+    </Grid>
+</Window>
